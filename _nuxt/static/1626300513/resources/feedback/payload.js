@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/resources/feedback", {data:[{}],fetch:{},mutations:[]});
